@@ -15,13 +15,13 @@ class Titik{
 		absis = 0.0;
 		ordinat = 0.0;
 		counterTitik++;
-	};
+	}
 
 	Titik(double a, double o){
 		absis = a;
 		ordinat = o;
 		counterTitik++;
-	};
+	}
 	
 	void setAbsis(double a){
 		absis = a;
