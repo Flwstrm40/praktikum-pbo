@@ -1,5 +1,5 @@
 /* Program   : Titik.java */
-/* Deskripsi : file class Titik*/
+/* Deskripsi : File kelas Titik*/
 /* NIM/Nama  : 24060121130073/Muhammad Naufal Arkan*/
 /* Tanggal   : 22-02-2023*/
 /***********************************/
