@@ -1,5 +1,5 @@
 /* Program   : MTitik.java */
-/* Deskripsi : Kelas yang berisi program utama yang memanfaatkan kelas titik*/
+/* Deskripsi : Kelas yang berisi program utama yang memanfaatkan kelas Titik*/
 /* NIM/Nama  : 24060121130073/Muhammad Naufal Arkan*/
 /* Tanggal   : 22-02-2023*/
 /***********************************/
