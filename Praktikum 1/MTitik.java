@@ -1,5 +1,5 @@
 /* Program   : MTitik.java */
-/* Deskripsi : file driver main Titik*/
+/* Deskripsi : Kelas yang berisi program utama yang memanfaatkan kelas titik*/
 /* NIM/Nama  : 24060121130073/Muhammad Naufal Arkan*/
 /* Tanggal   : 22-02-2023*/
 /***********************************/
