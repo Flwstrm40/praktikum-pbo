@@ -1,5 +1,3 @@
-import javax.swing.plaf.synth.SynthStyle;
-
 /* Program   : MOperasiTitik.java */
 /* Deskripsi : Kelas yang berisi program utama yang memanfaatkan kelas OperasiTitik*/
 /* NIM/Nama  : 24060121130073/Muhammad Naufal Arkan*/
