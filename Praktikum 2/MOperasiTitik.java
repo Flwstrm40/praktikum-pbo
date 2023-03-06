@@ -11,7 +11,7 @@ class MOperasiTitik {
         OperasiTitik op = new OperasiTitik();
         
         System.out.println("titik(" + t1.getAbsis() + ", " + t1.getOrdinat() + ")");
-        Titik tR1; 
+        Titik tR1 = new Titik(); 
         tR1 = op.refleksiX(t1);
         System.out.println("titik setelah refleksi sb X: titik(" + tR1.getAbsis() + ", " + tR1.getOrdinat() + ")");
         tR1 = op.refleksiY(t1);
@@ -24,7 +24,7 @@ class MOperasiTitik {
         OperasiTitik op2 = new OperasiTitik();
         
         System.out.println("titik(" + t2.getAbsis() + ", " + t2.getOrdinat() + ")");
-        Titik tR2;
+        Titik tR2 = new Titik();
         tR2 = op2.refleksiX(t2);
         System.out.println("titik setelah refleksi sb X: titik(" + tR2.getAbsis() + ", " + tR2.getOrdinat() + ")");
         tR2 = op2.refleksiY(t2);
@@ -37,7 +37,7 @@ class MOperasiTitik {
         OperasiTitik op3 = new OperasiTitik();
 
         System.out.println("titik(" + t3.getAbsis() + ", " + t3.getOrdinat() + ")");
-        Titik tR3;
+        Titik tR3 = new Titik();
         tR3 = op3.refleksiX(t3);
         System.out.println("titik setelah refleksi sb X: titik(" + tR3.getAbsis() + ", " + tR3.getOrdinat() + ")");
         tR3 = op3.refleksiY(t3);
