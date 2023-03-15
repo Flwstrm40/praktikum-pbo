@@ -1,3 +1,9 @@
+/**
+ * File  : TimSepakbola.java   15/03/2023
+ * Penulis  : Muhammad Naufal Arkan/24060121130073
+ * Deskripsi  : representasi dasar dari objek TimSepakbola
+ */
+
 class TimSepakbola {
 
   // Assume there are only 2 teams using this class!
