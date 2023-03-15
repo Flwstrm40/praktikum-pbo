@@ -1,3 +1,9 @@
+/**
+ * File  : MTimSepakbola.java   15/03/2023
+ * Penulis  : Muhammad Naufal Arkan/24060121130073
+ * Deskripsi  : driver class untuk postTest TimSepakbola
+ */
+
 class MTimSepakbola {
   public static void main(String[] args) {
     // TODO: Make an instance called 'liverpool' -> use constructor which you have made before
