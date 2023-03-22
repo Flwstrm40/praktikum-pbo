@@ -1,5 +1,5 @@
 /**
- * File  : BujurSangkar.java   08/03/2023
+ * File  : BujurSangkar.java   15/03/2023
  * Penulis  : Muhammad Naufal Arkan/24060121130073
  * Deskripsi  : representasi dasar dari objek bujur sangkar, turunan kelas poligon
  */
