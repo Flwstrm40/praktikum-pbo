@@ -1,5 +1,5 @@
 /**
- * File  : Kubus.java   08/03/2023
+ * File  : Kubus.java   15/03/2023
  * Penulis  : Muhammad Naufal Arkan/24060121130073
  * Deskripsi  : representasi dasar dari objek Kubus
  */
