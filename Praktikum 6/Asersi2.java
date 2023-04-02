@@ -35,4 +35,5 @@ public class Asersi2 {
 
 /*JAWABAN 
  Tidak ada, scara konsep, program Asersi2 di atas sudah tepat, karena pada baris 25 terdapat asersi yang berfungsi untuk menolak input jari-jari lingkaran jika bernilai 0 atau negatif.
+ Jika asersi diaktifkan dan input jari-jari lingkaran bernilai 0 atau negatif, maka akan terjadi error pada saat kompilasi dan menampilkan pesan "jari jari tidak boleh nol!!!".
 */
