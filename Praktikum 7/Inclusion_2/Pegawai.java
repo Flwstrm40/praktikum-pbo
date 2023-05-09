@@ -5,7 +5,7 @@
  */
 
 public class Pegawai {
-    String nama;
+    private String nama;
     private int gajiPokok = 5000000;
 
     public void setNama(String nama) {
@@ -13,6 +13,6 @@ public class Pegawai {
     }
 
     public void tampilData(){
-        System.out.println("Nama: " + nama + ", Gaji pokok: " + gajiPokok);
+        System.out.println("Nama : " + nama + ", Gaji pokok : " + gajiPokok);
     }
 }
