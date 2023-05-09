@@ -13,7 +13,7 @@ public class Programmer extends Pegawai{
     
     public void tampilData(){
         super.tampilData();
-        System.out.println("Bonus: " + bonus);
+        System.out.println("Bonus : " + bonus);
     }
 }
 
