@@ -12,6 +12,6 @@ public class Manajer extends Pegawai{
     }
     public void tampilData(){
         super.tampilData();
-        System.out.println("Tunjangan: " + tunjangan);
+        System.out.println("Tunjangan : " + tunjangan);
     }
 }
